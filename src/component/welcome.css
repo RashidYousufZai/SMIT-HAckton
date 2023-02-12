@@ -1,0 +1,18 @@
+.login-flex{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.top-login{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.welcome{
+    background-image: url(../assets/login.jpg);
+    height: 100vh;
+}
+.login-margin{
+    margin: 40px;
+}
